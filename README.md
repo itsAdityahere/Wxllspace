@@ -4,8 +4,10 @@
 
 # WXLLSPACE - Design
 • https://dribbble.com/shots/15488459-WxllSpace-Branding-Identity-Logo-Design
-  • https://www.behance.net/gallery/117565511/Wxllspace-Branding-Ui-Ux-Iconography-Illustration
-  • https://www.secondeight.net/project/wallspace
+
+• https://www.behance.net/gallery/117565511/Wxllspace-Branding-Ui-Ux-Iconography-Illustration
+  
+• https://www.secondeight.net/project/wallspace
   
 # WXLLSPACE - Design implemented into code
 
