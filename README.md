@@ -12,8 +12,12 @@ Website's of Designs
   
 • https://www.secondeight.net/project/wallspace
   
-# WXLLSPACE - Design implemented into code
+# WXLLSPACE - Design implemented into code | Website
 
 Website deployed with Netlify 
 
 • https://wxllspace.netlify.app/
+
+# WXLLSPACE - Video on Youtube
+
+• https://www.youtube.com/watch?v=ZslusbDxLps
